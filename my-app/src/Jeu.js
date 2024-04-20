@@ -14,6 +14,7 @@ function Jeu() {
         <Card style={{ height: 150, width: 700, margin: 50 }}>
           <Form.Label>Rejoindre un jeu</Form.Label>
           <div style={{ display: 'flex', justifyContent: 'center', gap: '10px' }}>
+           <p>test</p>
             <Form.Control
               type="email"
               placeholder="Code du jeu"
